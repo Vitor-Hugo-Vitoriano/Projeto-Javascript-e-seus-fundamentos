@@ -1,19 +1,3 @@
-Python
-
-
-import os
-
-# Let's create a beautiful markdown structure for a documentation file based on the provided images.
-# The user wants a documentation to put inside their 'readme.md' file on GitHub.
-# Looking at the images, this is a basic JavaScript studies project ("Projeto JavaScript e Seus Fundamentos" / "Programador a bordo").
-# Files identified:
-# 1. index-variaveis.html -> Variables concept (var, assignment, reassignment)
-# 2. operadores-matematicos.html -> Mathematical operators (+, -, *, /, **, %, increment ++, decrement --)
-# 3. booleanos.html -> Boolean data type, comparison operators (<, >, >=, <=, !=, ==, ===)
-# 4. operadores-logicos.html -> Logical/Truthy/Falsy operators (!, !!, null, undefined, '', 0)
-# 5. strings.html -> String methods and properties (.length, .toUpperCase(), .toLowerCase(), .indexOf(), .replace(), .slice(), .trim(), concatenation, Template Literals)
-# 6. readme.md -> The target file currently containing boilerplate HTML.
-
 readme_content = """# 🚀 JavaScript Fundamentals - Estudos Iniciais
 
 Este repositório foi criado com o objetivo de consolidar o aprendizado dos conceitos fundamentais do **JavaScript** (ES6+). Os exemplos práticos estão estruturados dentro de arquivos HTML, utilizando a tag `<script>` para execução direta no navegador através do console de desenvolvedor.
